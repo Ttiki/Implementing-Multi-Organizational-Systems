@@ -1,4 +1,4 @@
-# mplementing Multi-Organizational Systems: Strategies and Ecosystems through Change Theory and Impact-Driven M&E. 
+# Implementing Multi-Organizational Systems: Strategies and Ecosystems through Change Theory and Impact-Driven M&E. 
 This is my second thesis for the Master SIGLIS diploma from the Université de Pau et des Pays de l'Adour.
 
 ## Abstract
